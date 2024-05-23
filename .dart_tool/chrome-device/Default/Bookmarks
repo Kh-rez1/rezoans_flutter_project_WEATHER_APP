@@ -1,0 +1,53 @@
+{
+   "checksum": "1e350cf33e2eb556fdb0920bfb9b2ccd",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13351434828525352",
+            "date_last_used": "0",
+            "guid": "670bfec3-0f3c-4863-afdf-8a5918835a2f",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Checkout - Lazy BD",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lazybd.com/checkout/order-received/12722/?key=wc_order_OZCWXEZZj3eOe&utm_nooverride=1"
+         } ],
+         "date_added": "13360957250472252",
+         "date_last_used": "0",
+         "date_modified": "13351434828525352",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13360957250472253",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13360957250472254",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCJv3ZaaPAQAAKg4QABgBIAAoBjAAOABAABIAKhhUNGN5czB5WG44bW42WWpXdXUveVJnPT1IA6AGDBKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ2N2ExMTIyZS02ZjU2LTU1ZmUtYjQ0Yi1jN2I0N2EyNzAyZTkYACAAKAAwm9HUrLAvOLq9zNv+L0C6vczb/i9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDdlYjkyMzI5LWFhZWUtNThlMS04OWI0LTI5OTJiZDFlNDJkMxgAIAAoADCb0dSssC842b3M2/4vQNm9zNv+L0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASpwEIBxKiAQocMXByRWpvVCswc0RKY0t6YkRsU3Z3UzV4Wk4wPRIkNjcwYmZlYzMtMGYzYy00ODYzLWFmZGYtOGE1OTE4ODM1YTJmGAAgACgAMI7ymIn5MTiggMX21jFAoIDF9tYxShxHTFMrQlBxT1Vrb3VXUk9LZ2gwcmUvUGQwYWs9Wh4iHGhjZVpjZlluTWFsbUNLOG94TFYwZGNHeUZzND1l3OrXwhKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRkOWU5MDJjMi1hMTU4LTU0NmMtOWNjNy0zYzQ0NDJiODQxOWIYACAAKAAwm9HUrLAvOPi9zNv+L0D4vczb/i9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
